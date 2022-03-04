@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     fun feature(){
         Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
     }
 }
