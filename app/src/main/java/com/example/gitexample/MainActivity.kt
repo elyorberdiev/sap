@@ -16,4 +16,11 @@ class MainActivity : AppCompatActivity() {
     fun mainBranch2(){
         Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
     }
+
+
+
+
+    fun feature(){
+        Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
+    }
 }
