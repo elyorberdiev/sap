@@ -2,6 +2,7 @@ package com.example.gitexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -11,5 +12,8 @@ class MainActivity : AppCompatActivity() {
 
     fun mainBranch(){
 
+    }
+    fun mainBranch2(){
+        Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
     }
 }
