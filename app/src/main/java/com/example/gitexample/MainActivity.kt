@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun mainBranch(){
-
+        actionBar
     }
     fun mainBranch2(){
         Toast.makeText(this, "main", Toast.LENGTH_SHORT).show()
