@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         actionBar?.title = "Hello"
+        actionBar?.title = "Hello"
     }
     fun master(){
 
