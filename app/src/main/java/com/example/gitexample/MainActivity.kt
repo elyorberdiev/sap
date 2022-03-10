@@ -12,4 +12,7 @@ class MainActivity : AppCompatActivity() {
     private fun status(){
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show()
     }
+    private fun status2(){
+        Toast.makeText(this, "", Toast.LENGTH_SHORT).show()
+    }
 }
